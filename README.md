@@ -1,4 +1,7 @@
-#📘 Project Title: Website Performance Analysis
+# 📘 Project Title: Website Performance Analysis
+# 🎯 Project Objective
+The objective of this project is to analyze the performance of a website using data-driven metrics such as load time, bounce rate, traffic sources, and user engagement. The goal is to identify performance bottlenecks and provide actionable recommendations to enhance speed, SEO efficiency, and user experience.
+
 
 This notebook performs website performance analysis using Python. Here's a brief summary of what the code does:
 
